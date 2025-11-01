@@ -1,3 +1,6 @@
+# Self-Learning Project
+This repo is a self-learning project which developed chatbot project using React framework. It used useState, useEffect, useRef function in React and helps me to improve my coding in web development like CSS and JavaScript. The repo is managed and external libraries are installed using NPM and Vite. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
