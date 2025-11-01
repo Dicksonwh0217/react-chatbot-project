@@ -1,6 +1,9 @@
 # Self-Learning Project
 This repo is a self-learning project which developed chatbot project using React framework. It used useState, useEffect, useRef function in React and helps me to improve my coding in web development like CSS and JavaScript. The repo is managed and external libraries are installed using NPM and Vite. 
 
+# Way to View The Project
+going to the repo of "chatbot-project" and open terminal like command prompt, powershell or git bash to access to the folder location. Run command "npm run dev" and a web address with "http://localhost:port_num" will shown up in the terminal, the "port_num" is the port number of server for this project. Finally paste the web address into browser to view the project
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
